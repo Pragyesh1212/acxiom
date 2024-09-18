@@ -62,7 +62,7 @@ header nav a {
 
 .login-box a {
     text-decoration: none;
-    color: #333;
+    color: blue;
 }
 
 .login-box a:hover {
